@@ -30,13 +30,14 @@ body{
 	
 }
 .author p{
-	margin-bottom;
+color:#777777
 }
-button{
+.price-block{
 width:32vw;
 border-radius:5px;
 border:none;
-background-color:#2dcc71;
+background-color:#2ecc71;
 color:white;
-	margin-bottom:30px;
+margin-bottom:30px;
 }
+.price-
